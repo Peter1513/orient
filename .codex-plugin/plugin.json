@@ -3,12 +3,33 @@
   "version": "1.0.0",
   "description": "Pre-work skill: clarify intent, search precedents, and brainstorm approaches before starting work with a coding agent.",
   "author": {
-    "repository": "github:Peter1513/orient"
+    "name": "Peter",
+    "url": "https://github.com/Peter1513"
   },
-  "category": "Productivity",
+  "homepage": "https://github.com/Peter1513/orient",
+  "repository": "https://github.com/Peter1513/orient",
   "license": "MIT",
-  "capabilities": {
-    "write": false
-  },
-  "prompt": "You have access to the /orient skill. When the user runs $orient or /orient, load and follow skills/orient/SKILL.md exactly."
+  "keywords": [
+    "planning",
+    "brainstorming",
+    "precedent-search",
+    "coding-agent"
+  ],
+  "skills": "./skills/",
+  "interface": {
+    "displayName": "Orient",
+    "shortDescription": "Clarify before coding",
+    "longDescription": "Pre-work skill for coding agents. Clarify intent, scan project context when requested, search precedents, and produce a concrete plan before implementation.",
+    "developerName": "Peter",
+    "category": "Productivity",
+    "capabilities": [
+      "Read"
+    ],
+    "websiteURL": "https://github.com/Peter1513/orient",
+    "termsOfServiceURL": "https://github.com/Peter1513/orient/blob/main/LICENSE",
+    "defaultPrompt": [
+      "Use Orient before starting this coding task."
+    ],
+    "brandColor": "#10A37F"
+  }
 }

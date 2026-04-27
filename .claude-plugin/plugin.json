@@ -3,6 +3,17 @@
   "version": "1.0.0",
   "description": "Pre-work skill: clarify intent, search precedents, and brainstorm approaches before starting work with a coding agent.",
   "author": {
-    "name": "Peter"
-  }
+    "name": "Peter",
+    "url": "https://github.com/Peter1513"
+  },
+  "homepage": "https://github.com/Peter1513/orient",
+  "repository": "https://github.com/Peter1513/orient",
+  "license": "MIT",
+  "keywords": [
+    "planning",
+    "brainstorming",
+    "precedent-search",
+    "coding-agent"
+  ],
+  "skills": "./skills/"
 }

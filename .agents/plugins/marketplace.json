@@ -1,0 +1,20 @@
+{
+  "name": "orient",
+  "interface": {
+    "displayName": "Orient"
+  },
+  "plugins": [
+    {
+      "name": "orient",
+      "source": {
+        "source": "local",
+        "path": "./"
+      },
+      "policy": {
+        "installation": "AVAILABLE",
+        "authentication": "ON_INSTALL"
+      },
+      "category": "Productivity"
+    }
+  ]
+}

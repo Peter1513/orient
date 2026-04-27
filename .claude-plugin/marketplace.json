@@ -1,0 +1,20 @@
+{
+  "name": "orient",
+  "owner": {
+    "name": "Peter",
+    "url": "https://github.com/Peter1513"
+  },
+  "metadata": {
+    "description": "Pre-work skills for clarifying intent, searching precedents, and planning before coding."
+  },
+  "plugins": [
+    {
+      "name": "orient",
+      "description": "Clarify intent, search precedents, and brainstorm approaches before starting coding work.",
+      "source": "./",
+      "category": "productivity",
+      "license": "MIT",
+      "repository": "https://github.com/Peter1513/orient"
+    }
+  ]
+}
