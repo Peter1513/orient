@@ -7,14 +7,14 @@ Pre-work skill for coding agents. Clarify intent, search precedents, brainstorm 
 ### Claude Code
 
 ```bash
-claude plugin marketplace add YOUR_GITHUB_USERNAME/orient
+claude plugin marketplace add github:Peter1513/orient
 claude plugin install orient@orient
 ```
 
 ### Codex
 
 ```bash
-codex plugin install YOUR_GITHUB_USERNAME/orient
+codex plugin install github:Peter1513/orient
 ```
 
 Or search "orient" in Codex plugin browser.
