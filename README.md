@@ -36,4 +36,7 @@ Codex: use `$orient` or invoke the installed `orient` skill from the plugin brow
 
 ## License
 
-MIT
+MIT. See `LICENSE`.
+
+This project acknowledges Superpowers, which is MIT licensed. See
+`THIRD_PARTY_NOTICES.md` for third-party license notices.
